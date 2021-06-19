@@ -14,4 +14,4 @@ function test(n) {
     }
 }
 
-test(10)
+test(5)
